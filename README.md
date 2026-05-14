@@ -18,4 +18,4 @@ Full-stack engineer, 10+ years shipping production systems. Last 2 focused on ag
 Python · TypeScript · React · Java · Spring Boot · PostgreSQL · Redis · Docker · AWS
 LLMs · Agentic Workflows · Claude API · RAG · Persistent Memory · Eval Loops
 
-[Portfolio](https://onk3sh.github.io) · [LinkedIn](https://linkedin.com/in/onkesh) · [X](https://twitter.com/onk3sh)
+[Portfolio](https://onk3sh.github.io)
