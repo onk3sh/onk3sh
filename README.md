@@ -1,15 +1,21 @@
 # Onkesh Bansal
 
-Senior engineer building production AI systems — autonomous workflows, persistent memory, and the infrastructure that makes agents actually reliable.
+Full-stack engineer, 10+ years shipping production systems. Last 2 focused on agents: autonomous pipelines, persistent project-aware memory, and eval loops that compound.
 
-**Active projects**
-- [Claude Code Office Harness](https://github.com/onk3sh/onk3sh.github.io) — autonomous ticket-to-PR with persistent session memory and a self-improving code review agent
-- [CanvestAI](https://github.com/onk3sh/onk3sh.github.io) — conversational ETF analysis and portfolio rebalancing for Canadian investors
+**Live**
+- [Lab](https://onk3sh.github.io/lab/) — live CanvestAI sector signals, paper trades, and model portfolio allocation
+
+**Projects**
+- [Claude Code Harness](https://onk3sh.github.io/post/claude-code-harness/) — solo-built autonomous ticket-to-PR pipeline. 10+ PRs shipped end-to-end; handles routine tickets and tech debt. Code review agent refines its criteria from eval scores across runs, with project-aware memory backed by Obsidian.
+- [CanvestAI](https://onk3sh.github.io/post/canvestai/) — equity sector signal system with confidence scoring, live paper trading, and Canadian ETF universe. Portfolio allocation and signals updated on each run.
+
+**Writing**
+- [The Iron Law of Gates](https://onk3sh.github.io/post/iron-law-gates/) — why agent reliability requires hard stops, not soft guidance
+- [Three-Tier Agent Memory](https://onk3sh.github.io/post/agent-memory-three-tiers/) — working, episodic, and semantic memory for production agents
+- [ripgrep vs ast-grep for agent tooling](https://onk3sh.github.io/post/rg-vs-ast-grep/) — structural vs text search in agentic code workflows
 
 **Stack**
-Java · Spring Boot · Ruby on Rails · Python · Claude API · TypeScript · PostgreSQL · Redis · Docker · AWS
+Python · TypeScript · React · Java · Spring Boot · PostgreSQL · Redis · Docker · AWS
+LLMs · Agentic Workflows · Claude API · RAG · Persistent Memory · Eval Loops
 
-**Background**
-Currently at Basis Technologies in Toronto. Previously at Centric Consulting (Gurgaon) and Adobe (Bangalore — Acrobat, XD, Muse).
-
-[Portfolio](https://onk3sh.github.io) · [LinkedIn](https://linkedin.com/in/onkesh) · [X](https://twitter.com/onk3sh)
+[Portfolio](https://onk3sh.github.io) · [LinkedIn](https://linkedin.com/in/onkesh) · [X](https://twitter.com/onk3sh) · [onkesh2022@gmail.com](mailto:onkesh2022@gmail.com)
